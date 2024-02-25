@@ -1,0 +1,1 @@
+{'Sales': 3, 'IT infrastructure': 4, 'Development': 4, 'User Experience Research': 2, 'Vendor operations': 2, 'Human Resources': 2, 'Marketing': 2}
