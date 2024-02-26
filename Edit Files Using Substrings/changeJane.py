@@ -16,5 +16,5 @@ for line in f.readlines():
   # Use the subprocess module to run the 'mv' command which renames the file
   subprocess.run(["mv", old_name, new_name])
 
-# Close the file now that we are done reading from it
+# Close the file 
 f.close()
