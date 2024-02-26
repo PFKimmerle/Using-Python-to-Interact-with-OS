@@ -1,0 +1,13 @@
+..F
+======================================================================
+FAIL: test_two_name (__main__.EmailsTest)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "./emails_test.py", line 20, in test_two_name
+    self.assertEqual(find_email(testcase), expected)
+AssertionError: None != 'No email address found'
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+FAILED (failures=1)
